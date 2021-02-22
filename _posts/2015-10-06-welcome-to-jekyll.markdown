@@ -1,10 +1,10 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
-date:   2015-10-06 15:39:40
-preview: holder.js/300x300?auto=yes
+title:  
+date:   
+preview: https://media.discordapp.net/attachments/813558408409251840/813558465510244383/LSP_Dancer.png
 ---
 
-![Picture 1](holder.js/800x600?auto=yes)
+![Picture 1](https://media.discordapp.net/attachments/813558408409251840/813558465510244383/LSP_Dancer.png)
 
-Bavaria ipsum dolor sit amet g’hupft wia gsprunga wolln dringma aweng oba Biazelt hogg di hera helfgod. Sog i hawadere midananda nomoi a bissal wos gehd ollaweil gor kumm geh naa jo leck mi, Xaver: Weiznglasl i hob di liab des muas ma hoid kenna.
+A dancer.
