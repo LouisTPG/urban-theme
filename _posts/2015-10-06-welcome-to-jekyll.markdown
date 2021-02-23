@@ -2,9 +2,9 @@
 layout: post
 title:  "Welcome to Jekyll!"
 date:   2015-10-07 15:39:40
-preview: holder.js/300x300?auto=yes
+preview: {{site.github.url}}/assets/LSP_Bottle.jpg
 ---
 
-![Picture 1](holder.js/800x600?auto=yes)
+![Picture 1]({{site.github.url}}/assets/LSP_Bottle.jpg)
 
 A dancer.
