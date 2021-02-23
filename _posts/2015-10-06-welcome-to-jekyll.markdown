@@ -7,4 +7,4 @@ preview: {{site.github.url}}/assets/LSP_Bottle.jpg
 
 ![Picture 1]({{site.github.url}}/assets/LSP_Bottle.jpg)
 
-A dancer.
+A bottle-wielder.
